@@ -1,0 +1,6 @@
+lobby:
+  ip: localhost
+  port: 25565
+  type: Spigot
+  path: V:\siea development\testserver\lobby\spigot-1.20.4.jar
+
